@@ -1,0 +1,4 @@
+*.pcap
+*.mindump
+TG-stats.csv
+*.swp
